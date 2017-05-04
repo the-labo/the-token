@@ -95,7 +95,7 @@ tryExample().catch((err) => console.error(err))
 API Guide
 -----
 
-+ [the-token@1.0.0](./doc/api/api.md)
++ [the-token@1.0.1](./doc/api/api.md)
   + [create(args)](./doc/api/api.md#the-token-function-create)
   + [TheToken](./doc/api/api.md#the-token-class)
 
