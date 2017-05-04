@@ -1,0 +1,41 @@
+{
+  "classes": [
+    {
+      "name": "TheToken",
+      "description": "",
+      "extends": [],
+      "access": "",
+      "virtual": false,
+      "fires": "",
+      "constructor": {
+        "name": "TheToken",
+        "description": "",
+        "parameters": [],
+        "examples": []
+      }
+    }
+  ],
+  "functions": [
+    {
+      "name": "create",
+      "access": "",
+      "virtual": false,
+      "description": "Create a TheToken instance",
+      "parameters": [
+        {
+          "name": "args",
+          "type": "*",
+          "description": "",
+          "default": "",
+          "optional": "",
+          "nullable": ""
+        }
+      ],
+      "examples": [],
+      "returns": {
+        "type": "TheToken",
+        "description": ""
+      }
+    }
+  ]
+}
