@@ -9,10 +9,36 @@
       "fires": "",
       "constructor": {
         "name": "TheToken",
-        "description": "",
+        "description": "Token generator",
         "parameters": [],
         "examples": []
-      }
+      },
+      "functions": [
+        {
+          "name": "generate",
+          "access": "",
+          "virtual": false,
+          "description": "Generate a token string",
+          "parameters": [],
+          "examples": [],
+          "returns": {
+            "type": "string",
+            "description": ""
+          }
+        },
+        {
+          "name": "bind",
+          "access": "",
+          "virtual": false,
+          "description": "Bind generator",
+          "parameters": [],
+          "examples": [],
+          "returns": {
+            "type": "function",
+            "description": ""
+          }
+        }
+      ]
     }
   ],
   "functions": [

@@ -1,6 +1,6 @@
 {
   "name": "the-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Token generator for the-framework",
   "main": "lib",
   "browser": "shim",
